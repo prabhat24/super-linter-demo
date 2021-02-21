@@ -31,3 +31,6 @@ def find_max_distance(ar, N, no_of_cows):
         else:
             end = mid - 1
     return ans
+
+def add2numbers(a, b):
+    return a+ b
